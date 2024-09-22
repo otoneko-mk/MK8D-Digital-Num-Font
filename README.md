@@ -3,6 +3,8 @@
 マリオカート8デラックスのデジタル数字風のフォントです
 任天堂株式会社及び開発関係者は一切関与しておりません
 
+[最新バージョン（ver.2024.09.22.02）](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/releases/latest)
+
 ## ライセンス
 
 - **改変禁止**
