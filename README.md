@@ -1,2 +1,26 @@
 # MK8D-Digital-Num-Font
- 
+
+マリオカート8デラックスのデジタル数字風のフォントです
+任天堂株式会社及び開発関係者は一切関与しておりません
+
+## ライセンス
+
+- **改変禁止**
+- **再配布禁止**
+
+インターネット上（Webサイトや公開しているツールなど）で使用する際は以下を表示してください
+
+- フォント名
+- このリポジトリ（[MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)）
+- クレジットすべて または CC（"© 2024 ze0n00se, otoneko_mk"）
+
+## クレジット
+
+- 前世
+  - Twitter: [@ze0n00se](https://x.com/ze0n00se)
+- otoneko_mk
+  - GitHub: [@otoneko-mk](https://github.com/otoneko-mk)
+  - Twitter: [@otoneko_mk](https://x.com/otoneko_mk)
+  - Discord: [@subneko_mk](https://discord.com/users/1068416690020425738)
+
+© 2024 ze0n00se, otoneko_mk
