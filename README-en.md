@@ -1,6 +1,7 @@
 # MK8D-Digital-Num-Font
 
-A font inspired by the digital numbers in Mario Kart 8 Deluxe.  
+A font inspired by the digital numbers in Mario Kart 8 Deluxe.
+
 Nintendo Co., Ltd. and the developers are not affiliated with this project.
 
 | Font Name      | Font File                                                                                              | Description                                                                                                  |
@@ -16,7 +17,8 @@ Please report any bugs or feature requests via [Issues](https://github.com/otone
 - **No modifications allowed**
 - **No redistribution allowed**
 
-When using the font included in this repository for any online content (websites, public tools, video streams, etc.), please credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).  
+When using the font included in this repository for any online content (websites, public tools, video streams, etc.), please credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).
+
 If you contact otoneko_mk, you may be able to use it without attribution.
 
 ## Credits
