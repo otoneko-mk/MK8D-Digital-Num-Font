@@ -8,7 +8,7 @@ body:
       label: リクエスト内容 / Request Details
     validations:
       required: true
-   - type: markdown
+  - type: markdown
     attributes:
       value: |
         フィードバックありがとうございます！
