@@ -28,6 +28,6 @@ body:
     attributes:
       value: |
         不具合報告に時間を割いていただきありがとうございます！
-        内容をもう一度確認していただき、ラベルを付けてから提出してください
+        内容をもう一度確認してから提出してください。
         Thanks for taking the time to fill out this bug report!
-        Please review your report, add appropriate labels, and then submit it.
+        Please review the details before submitting.

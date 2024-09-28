@@ -8,10 +8,20 @@ body:
       label: リクエスト内容 / Request Details
     validations:
       required: true
+    - type: dropdown
+    id: label
+    attributes:
+      label: ラベル / Label
+      options:
+        - 新しい文字をリクエスト / Request a New Character
+        - 新しいフォントをリクエスト / Request a New Font
+        - その他 / Other
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
         フィードバックありがとうございます！
-        内容をもう一度確認していただき、ラベルを付けてから提出してください
+        内容をもう一度確認してから提出してください。。
         Thanks for your feedback!
-        Please review your request, add appropriate labels, and then submit it.
+        Please review the details before submitting.
