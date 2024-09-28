@@ -24,7 +24,7 @@
 - **改変禁止**
 - **再配布禁止**
 
-インターネット上（Webサイトや公開しているツール、動画配信など）でこのリポジトリに含まれるフォントを使用する際は、フォントを使用するコンテンツにこのリポジトリ（[MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)）を明記してください
+インターネット上（SNSや動画配信、Webサイトやツール、など）でこのリポジトリに含まれるフォントを使用する際は、フォントを使用するコンテンツにこのリポジトリ（[MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)）を明記してください
 
 otoneko_mkまで連絡していただければ明記せずに使用いただけます
 

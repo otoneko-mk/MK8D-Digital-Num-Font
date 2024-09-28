@@ -24,7 +24,7 @@ You may use the following templates:
 - **No modifications allowed**
 - **No redistribution allowed**
 
-If you wish to use the font contained in this repository in any content shared publicly online (websites, tools, video streams, etc.), you must credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).
+If you wish to use the font contained in this repository in any content shared publicly online (sns, video streams, websites, tools, etc.), you must credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).
 
 If you'd prefer not to credit it, please contact otoneko_mk.
 
