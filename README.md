@@ -1,9 +1,12 @@
 # MK8D-Digital-Num-Font
 
-マリオカート8デラックスのデジタル数字風のフォントです<br>
+[English ver.](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/README-en.md)
+
+マリオカート8デラックスのデジタル数字風のフォントです
+
 任天堂株式会社及び開発関係者は一切関与しておりません
 
-| フォント名         | フォントファイル                                                                                               | 最新Ver.     |
+| フォント名         | フォントファイル                                                                                               | 最新Ver.      |
 |----------------|--------------------------------------------------------------------------------------------------------|---------------|
 | MK8DDigitalNum | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | 2024.09.22.02 |
 
@@ -11,12 +14,18 @@
 
 フォントの不具合やリクエスト等は[Issues](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues)で報告してください
 
+以下のテンプレートを使用いただけます
+- [不具合報告 / Bug Report](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D%3A+)
+- [リクエスト / Request](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=request.yml&title=%5BRequest%5D%3A+)
+- [Custom Issue Template](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=custom.md&title=)
+
 ## ライセンス
 
 - **改変禁止**
 - **再配布禁止**
 
-インターネット上（Webサイトや公開しているツール、動画配信など）でこのリポジトリに含まれるフォントを使用する際は、フォントを使用するコンテンツにこのリポジトリ（[MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)）を明記してください<br>
+インターネット上（Webサイトや公開しているツール、動画配信など）でこのリポジトリに含まれるフォントを使用する際は、フォントを使用するコンテンツにこのリポジトリ（[MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)）を明記してください
+
 otoneko_mkまで連絡していただければ明記せずに使用いただけます
 
 ## クレジット

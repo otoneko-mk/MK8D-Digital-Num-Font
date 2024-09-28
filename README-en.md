@@ -1,29 +1,38 @@
 # MK8D-Digital-Num-Font
 
-A digital number-style font inspired by Mario Kart 8 Deluxe.<br>
-Nintendo Co., Ltd. and its developers are not involved.
+[日本語版はこちら](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/README.md)
 
-| Font Name      | Font File                                                                                              | Latest Version | Description                                                                                        |
-|----------------|--------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------|
-| MK8DDigitalNum | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | 2024.09.22.02  | A digital number-style font inspired by Mario Kart 8 Deluxe.<br>Ideal for displaying points or VR. |
+This is a digital-style number font inspired by Mario Kart 8 Deluxe.
 
-## Bug Reports & Requests
+This project is not affiliated with Nintendo or any of its developers.
 
-Please report any font bugs or requests via [Issues](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues).
+| Font Name      | Font File                                                                                              | Latest Version |
+|----------------|--------------------------------------------------------------------------------------------------------|----------------|
+| MK8DDigitalNum | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | 2024.09.22.02  |
+
+## Reporting Bugs and Requests
+
+If you encounter any issues or have a request, please report them on [Issues](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues).
+
+You may use the following templates:
+- [Bug Report](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D%3A+)
+- [Request](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=request.yml&title=%5BRequest%5D%3A+)
+- [Custom Issue Template](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=custom.md&title=)
 
 ## License
 
 - **No modifications allowed**
 - **No redistribution allowed**
 
-When using the fonts from this repository on the internet (in websites, public tools, video streams, etc.), please credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).<br>  
-If you contact otoneko_mk, you may use the font without giving credit.
+If you wish to use the font contained in this repository in any content shared publicly online (websites, tools, video streams, etc.), you must credit this repository ([MK8D-Digital-Num-Font](https://github.com/otoneko-mk/MK8D-Digital-Num-Font)).
+
+If you'd prefer not to credit it, please contact otoneko_mk.
 
 ## Credits
 
-- Zensei  
+- Zense
   - Twitter: [@ze0n00se](https://x.com/ze0n00se)
-- otoneko_mk  
+- otoneko_mk
   - GitHub: [@otoneko-mk](https://github.com/otoneko-mk)
   - Twitter: [@otoneko_mk](https://x.com/otoneko_mk)
   - Discord: [@subneko_mk](https://discord.com/users/1068416690020425738)
