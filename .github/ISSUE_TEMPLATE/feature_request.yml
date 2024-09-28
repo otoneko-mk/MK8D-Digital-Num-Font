@@ -1,0 +1,17 @@
+name: Request
+description: 新しいフォントや対応文字をリクエストします / Request new fonts or characters.
+title: "[Request]: "
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: リクエスト内容 / Request Details
+    validations:
+      required: true
+   - type: markdown
+    attributes:
+      value: |
+        フィードバックありがとうございます！
+        内容をもう一度確認していただき、ラベルを付けてから提出してください
+        Thanks for your feedback!
+        Please review your request, add appropriate labels, and then submit it.
