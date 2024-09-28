@@ -1,0 +1,33 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: 不具合内容 / Bug Details
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: バージョン / Version
+      options:
+        - 2024.09.22.02
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 環境 / Environment Details
+      description: |
+      不具合が発生したアプリやソフトを教えてください。
+      Please provide the name of the application or software where the issue occurred.
+  - type: markdown
+    attributes:
+      value: |
+        不具合報告に時間を割いていただきありがとうございます！
+        内容をもう一度確認していただき、ラベルを付けてから提出してください
+        Thanks for taking the time to fill out this bug report!
+        Please review your report, add appropriate labels, and then submit it.
