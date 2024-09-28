@@ -1,5 +1,5 @@
 name: リクエスト / Request
-description: 新しいフォントや対応文字をリクエストします / Request new fonts or characters.
+description: 新しいフォントや新たな対応文字、ドキュメントの修正などをリクエストします / Request for new fonts, additional supported characters, and document revisions
 title: "[Request]: "
 body:
   - type: textarea
