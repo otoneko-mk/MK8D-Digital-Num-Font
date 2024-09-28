@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report.
+name: 不具合報告 / Bug Report
+description: フォントの不具合を報告します / File a bug report.
 title: "[Bug]: "
 labels: ["bug"]
 body:
