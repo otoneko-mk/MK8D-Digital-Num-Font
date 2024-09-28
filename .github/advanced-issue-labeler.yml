@@ -1,0 +1,12 @@
+policy:
+  - template: ["request.yml"]
+    section:
+      - id: ["label"]
+        block-list: []
+        label:
+          - name: request: new character
+            keys: ["新しい文字をリクエスト / Request a New Character"]
+          - name: request: new font
+            keys: ["新しいフォントをリクエスト / Request a New Font"]
+          - name: request: other
+            keys: ["その他 / Other"]
