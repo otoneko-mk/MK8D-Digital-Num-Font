@@ -6,9 +6,9 @@ This is a digital-style number font inspired by Mario Kart 8 Deluxe.
 
 This project is not affiliated with Nintendo or any of its developers.
 
-| Font Name      | Font File                                                                                              | Latest Version |
-|----------------|--------------------------------------------------------------------------------------------------------|----------------|
-| MK8DDigitalNum | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | 2024.09.22.02  |
+| Font                                                                                                   | Download                                                                                              | Latest Version |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------|
+| [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/raw/main/MK8DDigitalNum.ttf) | 2024.09.22.02  |
 
 ## Reporting Bugs and Requests
 

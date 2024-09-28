@@ -6,9 +6,9 @@
 
 任天堂株式会社及び開発関係者は一切関与しておりません
 
-| フォント名         | フォントファイル                                                                                               | 最新Ver.      |
-|----------------|--------------------------------------------------------------------------------------------------------|---------------|
-| MK8DDigitalNum | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | 2024.09.22.02 |
+| フォント                                                                                                   | ダウンロード                                                                                                | 最新Ver.      |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------|
+| [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/blob/main/MK8DDigitalNum.ttf) | [MK8DDigitalNum.ttf](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/raw/main/MK8DDigitalNum.ttf) | 2024.09.22.02 |
 
 ## 不具合報告・リクエストについて
 
