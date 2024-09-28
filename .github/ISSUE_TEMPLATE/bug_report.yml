@@ -22,8 +22,8 @@ body:
     attributes:
       label: 環境 / Environment Details
       description: |
-      不具合が発生したアプリやソフトを教えてください。
-      Please provide the name of the application or software where the issue occurred.
+        不具合が発生したアプリやソフトを教えてください。
+        Please provide the name of the application or software where the issue occurred.
   - type: markdown
     attributes:
       value: |
