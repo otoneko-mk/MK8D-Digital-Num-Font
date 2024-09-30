@@ -4,9 +4,9 @@ policy:
       - id: ["label"]
         block-list: []
         label:
-          - name: request: new character
+          - name: new character
             keys: ["新しい文字をリクエスト / Request a New Character"]
-          - name: request: new font
+          - name: new font
             keys: ["新しいフォントをリクエスト / Request a New Font"]
-          - name: request: other
+          - name: other
             keys: ["その他 / Other"]
