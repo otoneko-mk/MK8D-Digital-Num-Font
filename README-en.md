@@ -14,7 +14,7 @@ This project is not affiliated with Nintendo or any of its developers.
 
 If you encounter any issues or have a request, please report them on [Issues](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues).
 
-You may use the following templates:
+You can use the following templates:
 - [Bug Report](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D%3A+)
 - [Request](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=request.yml&title=%5BRequest%5D%3A+)
 - [Custom Issue Template](https://github.com/otoneko-mk/MK8D-Digital-Num-Font/issues/new?assignees=&labels=&projects=&template=custom.md&title=)
